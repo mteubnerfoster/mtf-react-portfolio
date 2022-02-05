@@ -1,0 +1,19 @@
+{
+  "name": "mtf-react-portfolio",
+  "version": "1.0.0",
+  "description": "Megan's React Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mteubnerfoster/mtf-react-portfolio.git"
+  },
+  "author": "Megan Teubner-Foster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mteubnerfoster/mtf-react-portfolio/issues"
+  },
+  "homepage": "https://github.com/mteubnerfoster/mtf-react-portfolio#readme"
+}
