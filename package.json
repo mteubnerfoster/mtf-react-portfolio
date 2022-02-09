@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/mteubnerfoster/mtf-react-portfolio/issues"
   },
-  "homepage": "https://github.com/mteubnerfoster/mtf-react-portfolio#readme"
+  "homepage": "https://github.com/mteubnerfoster/mtf-react-portfolio#readme",
+  "dependencies": {
+    "materialize-css": "^1.0.0",
+    "react": "^17.0.2"
+  }
 }
