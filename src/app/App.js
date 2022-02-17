@@ -8,7 +8,6 @@ import {
 
 import AppRoutes from "./routes";
 import Headermain from "../header";
-import AnimatedCursor from "react-animated-cursor";
 import { Socialicons } from "../components/socialicons";
 import "./App.css";
 
