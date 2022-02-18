@@ -157,8 +157,9 @@ const dataportfolio = [
 ];
 
 const contactConfig = {
-    EMAIL: "mteubnerfoster@gmail.com",
-    PHONE: "217.816.3997",
+    YOUR_EMAIL: "mteubnerfoster@gmail.com",
+    YOUR_PHONE: "217.816.3997",
+    YOUR_SERVICE_ID: "default_service",
     description:
         "You can find my contact information here.",
 };

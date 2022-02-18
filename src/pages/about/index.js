@@ -22,7 +22,7 @@ export const About = () => {
 
                 <Row className="mb-5 mt-3">
                     <Col lg="8">
-                        <h1 className="display-4 mb-4">About Me</h1>
+                        <h1 className="display-4 mb-4">About</h1>
                         <hr className="t_border my-4 ml-0 text-left" />
                     </Col>
                 </Row>
@@ -40,7 +40,7 @@ export const About = () => {
 
                 <Row className=" sec_sp">
                     <Col lg="5">
-                        <h3 className="color_sec py-4">Career Timeline</h3>
+                        <h3 className="color_sec py-4">Career</h3>
                     </Col>
                     <Col lg="7">
                         <table className="table caption-top">
