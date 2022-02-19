@@ -93,7 +93,7 @@ const services = [
 
 const dataportfolio = [
     {
-        img: "https://picsum.photos/400/?grayscale", //update photo
+        img: "/public/photos/jate.JPG",
         desctiption:
             "JATE (Just Another Text Editor): A PWA Text Editor that runs in a browser.",
         link: "https://mtf-jate.herokuapp.com/",
