@@ -1,4 +1,4 @@
-const logotext = "MEGAN";
+const logotext = "Megan Teubner-Foster";
 const meta = {
     title: "Megan Teubner-Foster",
     description:
@@ -13,8 +13,8 @@ const introdata = {
         third: "I develop websites, content strategies, and knowledge bases",
     },
     description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+        "Check out my info below",
+    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d", //update with photo of me
 };
 
 const dataabout = {
