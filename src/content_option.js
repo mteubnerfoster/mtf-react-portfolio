@@ -164,7 +164,7 @@ const contactConfig = {
         "You can find my contact information here.",
 };
 
-const socialprofils = {
+const socialProfiles = {
     github: "https://github.com/mteubnerfoster",
     linkedin: "https://linkedin.com/in/mteubnerfoster",
 };
@@ -178,6 +178,6 @@ export {
     services,
     introdata,
     contactConfig,
-    socialprofils,
+    socialProfiles,
     logotext,
 };
