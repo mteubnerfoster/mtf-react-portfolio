@@ -151,9 +151,8 @@ const dataportfolio = [
 
 const contactConfig = {
     YOUR_EMAIL: "mteubnerfoster@gmail.com",
-    YOUR_PHONE: "217.816.3997",
     description:
-        "You can find my contact information here.",
+        "Looking forward to chatting with you!",
     YOUR_SERVICE_ID: "service_id",
     YOUR_TEMPLATE_ID: "template_id",
     YOUR_USER_ID: "user_id",

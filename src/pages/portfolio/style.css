@@ -63,7 +63,7 @@
 }
 
 .po_item:hover .content {
-    opacity: 1;
+    opacity: 100;
     color: var(--secondary-color);
 }
 
