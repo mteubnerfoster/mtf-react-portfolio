@@ -8,9 +8,9 @@ const meta = {
 const introdata = {
     title: "Hi! I'm Megan - ",
     animated: {
-        first: "I love helping people",
-        second: "I'm passionate about technical writing",
-        third: "I'm here to have fun coding'",
+        first: "technical writer",
+        second: "full stack web developer",
+        third: "content strategist",
     },
     description:
         "Thanks for stopping by!",
@@ -18,7 +18,7 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "about me",
+    title: "About Me",
     aboutme:
         "I started out in retail and after moving from the cornfields of central Illinois to the Emerald City, I began working in the tech industry as a customer support agent. From there, I found and fell in love with the world of Technical Writing. It combines two things I enjoy immensely: writing and helping people. Now, I'm taking that next step in my career and adding web development to my toolbox.",
 };
@@ -77,17 +77,17 @@ const services = [
     {
         title: "Content Strategy",
         description:
-            "The high-level planning, execution, promotion, and on-going management of the content lifecycle to support key business initiatives. Essentially, it’s your brand’s game plan for driving traffic, leads, engagement, sales, and other business outcomes through content.",
+            "The high-level planning, execution, promotion, and on-going management of content lifecycles to support key business initiatives. Essentially, it’s your brand’s game plan for driving traffic, leads, engagement, sales, and other business outcomes through content.",
     },
     {
         title: "Technical Writing and Knowledge Base Management",
         description:
-            "Any form of communication that exhibits the following characteristics: (1) communicating technical or specialized topics, such as computer applications, medical procedures, or environmental regulations; (2) communicating by using technology, such as web pages, help files, or social media sites; or (3) providing instructions about how to do something, regardless of how technical the task is. Knowledge management (KM) is the process of identifying, organizing, storing and disseminating information within an organization.",
+            "Any form of communication that: (1) communicates technical or specialized topics, such as computer applications, medical procedures, or environmental regulations; (2) communicates using technology such as web pages, help files, or social media sites; or (3) provides instructions about how to do something. Knowledge management (KM) is the process of identifying, organizing, storing and disseminating information within an organization.",
     },
     {
         title: "Process Improvement",
         description:
-            "The business practice of identifying, analyzing and improving existing business processes to optimize performance, meet best practice standards or simply improve quality and the user experience for customers and end-users.",
+            "Identifying, analyzing and improving existing business processes to optimize performance, meet best practice standards or simply improve quality and the user experience for customers and end-users.",
     },
 ];
 
