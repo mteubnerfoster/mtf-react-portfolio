@@ -70,8 +70,6 @@
     padding-bottom: 4px;
 }
 
-/*! keyframes */
-
 @-webkit-keyframes fadeInUp {
     0% {
         opacity: 0;

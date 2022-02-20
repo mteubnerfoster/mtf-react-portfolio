@@ -19,14 +19,12 @@ export const About = () => {
                     <title> About | {meta.title}</title>
                     <meta name="description" content={meta.description} />
                 </Helmet>
-
                 <Row className="mb-5 mt-3">
                     <Col lg="8">
                         <h1 className="display-4 mb-4">About</h1>
                         <hr className="t_border my-4 ml-0 text-left" />
                     </Col>
                 </Row>
-
                 <Row className="sec_sp">
                     <Col lg="5">
                         <h3 className="color_sec py-4">{dataabout.title}</h3>
@@ -37,7 +35,6 @@ export const About = () => {
                         </div>
                     </Col>
                 </Row>
-
                 <Row className=" sec_sp">
                     <Col lg="5">
                         <h3 className="color_sec py-4">Career</h3>
@@ -58,7 +55,6 @@ export const About = () => {
                         </table>
                     </Col>
                 </Row>
-
                 <Row className="sec_sp">
                     <Col lg="5">
                         <h3 className="color_sec py-4">Skills</h3>
@@ -83,7 +79,6 @@ export const About = () => {
                         })}
                     </Col>
                 </Row>
-                
                 <Row className="sec_sp">
                     <Col lang="5">
                         <h3 className="color_sec py-4">Services</h3>

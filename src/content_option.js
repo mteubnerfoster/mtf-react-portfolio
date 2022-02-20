@@ -1,19 +1,19 @@
-const logotext = "Megan Teubner-Foster";
+const logotext = "MTF";
 const meta = {
     title: "Megan Teubner-Foster",
     description:
-        "Hi, I'm Megan Teubner-Foster, a Technical Writer and Full Stack Web Developer currently working in the greater Seattle area",
+        "Hi! I'm Megan Teubner-Foster, a Technical Writer and Full Stack Web Developer.",
 };
 
 const introdata = {
-    title: "I’m Megan Teubner-Foster",
+    title: "Hi! I'm Megan - ",
     animated: {
         first: "I love helping people",
-        second: "I write process documentation",
-        third: "I develop content strategies and knowledge bases",
+        second: "I'm passionate about technical writing",
+        third: "I'm here to have fun coding'",
     },
     description:
-        "Check out my info below",
+        "Thanks for stopping by!",
     your_img_url: "https://raw.githubusercontent.com/mteubnerfoster/mtf-react-portfolio/main/src/assets/photos/megan.jpg",
 };
 
@@ -77,17 +77,17 @@ const services = [
     {
         title: "Content Strategy",
         description:
-            "Content strategy is the high-level planning, execution, promotion, and on-going management of the content lifecycle to support key business initiatives. Essentially, it’s your brand’s game plan for driving traffic, leads, engagement, sales, and other business outcomes through content.",
+            "The high-level planning, execution, promotion, and on-going management of the content lifecycle to support key business initiatives. Essentially, it’s your brand’s game plan for driving traffic, leads, engagement, sales, and other business outcomes through content.",
     },
     {
         title: "Technical Writing and Knowledge Base Management",
         description:
-            "Technical Writing is any form of communication that exhibits one or more of the following characteristics: (1) communicating about technical or specialized topics, such as computer applications, medical procedures, or environmental regulations; (2) communicating by using technology, such as web pages, help files, or social media sites; or (3) providing instructions about how to do something, regardless of how technical the task is. Knowledge management (KM) is the process of identifying, organizing, storing and disseminating information within an organization.",
+            "Any form of communication that exhibits the following characteristics: (1) communicating technical or specialized topics, such as computer applications, medical procedures, or environmental regulations; (2) communicating by using technology, such as web pages, help files, or social media sites; or (3) providing instructions about how to do something, regardless of how technical the task is. Knowledge management (KM) is the process of identifying, organizing, storing and disseminating information within an organization.",
     },
     {
         title: "Process Improvement",
         description:
-            "Process improvement involves the business practice of identifying, analyzing and improving existing business processes to optimize performance, meet best practice standards or simply improve quality and the user experience for customers and end-users.",
+            "The business practice of identifying, analyzing and improving existing business processes to optimize performance, meet best practice standards or simply improve quality and the user experience for customers and end-users.",
     },
 ];
 
@@ -128,7 +128,7 @@ const dataportfolio = [
     },
 
     {
-        img: "https://raw.githubusercontent.com/mteubnerfoster/mtf-react-portfolio/main/src/assets/photos/express-note-taker.jpg", 
+        img: "https://raw.githubusercontent.com/mteubnerfoster/mtf-react-portfolio/main/src/assets/photos/express-note-taker.jpg",
         description:
             "Express Note Taker: A note taking application that allows users to enter and save notes.",
         link: "https://lit-sea-95005.herokuapp.com/",
@@ -152,9 +152,11 @@ const dataportfolio = [
 const contactConfig = {
     YOUR_EMAIL: "mteubnerfoster@gmail.com",
     YOUR_PHONE: "217.816.3997",
-    YOUR_SERVICE_ID: "default_service",
     description:
         "You can find my contact information here.",
+    YOUR_SERVICE_ID: "service_id",
+    YOUR_TEMPLATE_ID: "template_id",
+    YOUR_USER_ID: "user_id",
 };
 
 const socialProfiles = {
