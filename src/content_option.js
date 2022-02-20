@@ -10,11 +10,11 @@ const introdata = {
     animated: {
         first: "I love helping people",
         second: "I write process documentation",
-        third: "I develop websites, content strategies, and knowledge bases",
+        third: "I develop content strategies and knowledge bases",
     },
     description:
         "Check out my info below",
-    your_img_url: "..src/assets/photos/megan.jpg",
+    your_img_url: "https://raw.githubusercontent.com/mteubnerfoster/mtf-react-portfolio/main/src/assets/photos/megan.jpg",
 };
 
 const dataabout = {
@@ -93,56 +93,56 @@ const services = [
 
 const dataportfolio = [
     {
-        img: "src/assets/photos/jate.jpg",
+        img: "https://raw.githubusercontent.com/mteubnerfoster/mtf-react-portfolio/main/src/assets/photos/jate.JPG",
         description:
             "JATE (Just Another Text Editor): A PWA Text Editor that runs in a browser.",
         link: "https://mtf-jate.herokuapp.com/",
     },
 
     {
-        img: "src/assets/photos/jointefforthomepage.jpg",
+        img: "https://raw.githubusercontent.com/mteubnerfoster/mtf-react-portfolio/main/src/assets/photos/jointefforthomepage.jpg",
         description:
             "Joint Effort: This app assists users in choosing a cannabis dispensary and a food truck near one another.",
         link: "https://joint-effort-kohmm.herokuapp.com/",
     },
 
     {
-        img: "src/assets/photos/tech-blog-photo.jpg",
+        img: "https://raw.githubusercontent.com/mteubnerfoster/mtf-react-portfolio/main/src/assets/photos/tech-blog-photo.jpg",
         description:
             "MTF Tech Blog: A CMS-style blog similar to a Wordpress site, where developers publish blog posts and comment on others' posts.",
         link: "https://mtf-tech-blog.herokuapp.com/",
     },
 
     {
-        img: "src/assets/photos/employeetracker.jpg",
+        img: "https://raw.githubusercontent.com/mteubnerfoster/mtf-react-portfolio/main/src/assets/photos/employeetracker.jpg",
         description:
             "Employee Tracker: A Content Management System (CMS) application that allows non-developers to easily view and interact with information stored in databases.",
         link: "https://github.com/mteubnerfoster/employee-tracker",
     },
 
     {
-        img: "src/assets/photos/exampleteamprofile.jpg",
+        img: "https://raw.githubusercontent.com/mteubnerfoster/mtf-react-portfolio/main/src/assets/photos/exampleteamprofile.jpg",
         description:
             "Team Profile Generator: A command-line interface application that creates a team profile webpage featuring summaries of team members.",
         link: "https://github.com/mteubnerfoster/team-profile-generator",
     },
 
     {
-        img: "src/assets/photos/express-note-taker.jpg", 
+        img: "https://raw.githubusercontent.com/mteubnerfoster/mtf-react-portfolio/main/src/assets/photos/express-note-taker.jpg", 
         description:
             "Express Note Taker: A note taking application that allows users to enter and save notes.",
         link: "https://lit-sea-95005.herokuapp.com/",
     },
 
     {
-        img: "src/assets/photos/weather-dashboard.jpg",
+        img: "https://raw.githubusercontent.com/mteubnerfoster/mtf-react-portfolio/main/src/assets/photos/weather-dashboard.jpg",
         description:
             "Weather Dashboard: A weather dashboard that displays cities' weather forecasts.",
         link: "https://mteubnerfoster.github.io/weather-dashboard/",
     },
 
     {
-        img: "src/assets/photos/work-day-scheduler.jpg",
+        img: "https://raw.githubusercontent.com/mteubnerfoster/mtf-react-portfolio/main/src/assets/photos/work-day-scheduler.jpg",
         description:
             "Work Day Scheduler: A calendar application that allows users to enter and save events for each hour of their work day, starting at 8am and ending at 5pm.",
         link: "https://mteubnerfoster.github.io/work-day-scheduler/",
