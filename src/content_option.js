@@ -2,19 +2,19 @@ const logotext = "Megan Teubner-Foster";
 const meta = {
     title: "Megan Teubner-Foster",
     description:
-        "I’m Megan Teubner-Foster Technical Writer _ Full Stack Web Developer, currently working in the greater Seattle area",
+        "Hi, I'm Megan Teubner-Foster, a Technical Writer and Full Stack Web Developer currently working in the greater Seattle area",
 };
 
 const introdata = {
     title: "I’m Megan Teubner-Foster",
     animated: {
-        first: "I love coding",
+        first: "I love helping people",
         second: "I write process documentation",
         third: "I develop websites, content strategies, and knowledge bases",
     },
     description:
         "Check out my info below",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d", //update with photo of me
+    your_img_url: "..src/assets/photos/megan.jpg",
 };
 
 const dataabout = {
@@ -93,64 +93,57 @@ const services = [
 
 const dataportfolio = [
     {
-        img: "/public/photos/jate.JPG",
-        desctiption:
+        img: "src/assets/photos/jate.jpg",
+        description:
             "JATE (Just Another Text Editor): A PWA Text Editor that runs in a browser.",
         link: "https://mtf-jate.herokuapp.com/",
     },
 
     {
-        img: "https://picsum.photos/400/300/?grayscale", //update photo
-        desctiption:
-            "Book Search Engine: A full MERN stack book search engine application.",
-        link: "https://github.com/mteubnerfoster/book-search-engine", //update URL once deployed
-    },
-
-    {
-        img: "https://picsum.photos/400/700/?grayscale", //update photo
-        desctiption:
-            "Joint Effort: This app assists users in choosing a cannabis dispensary and a food truck near one another so that they can pick up both in a fast and efficient manner.",
+        img: "src/assets/photos/jointefforthomepage.jpg",
+        description:
+            "Joint Effort: This app assists users in choosing a cannabis dispensary and a food truck near one another.",
         link: "https://joint-effort-kohmm.herokuapp.com/",
     },
 
     {
-        img: "https://picsum.photos/400/600/?grayscale", //update photo
-        desctiption:
-            "MTF Tech Blog: A CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well.",
+        img: "src/assets/photos/tech-blog-photo.jpg",
+        description:
+            "MTF Tech Blog: A CMS-style blog similar to a Wordpress site, where developers publish blog posts and comment on others' posts.",
         link: "https://mtf-tech-blog.herokuapp.com/",
     },
 
     {
-        img: "https://picsum.photos/400/300/?grayscale", //update photo
-        desctiption:
+        img: "src/assets/photos/employeetracker.jpg",
+        description:
             "Employee Tracker: A Content Management System (CMS) application that allows non-developers to easily view and interact with information stored in databases.",
         link: "https://github.com/mteubnerfoster/employee-tracker",
     },
 
     {
-        img: "https://picsum.photos/400/?grayscale", //update photo
-        desctiption:
-            "Team Profile Generator: A command-line interface application that allows the user to easily create a team profile webpage that features summaries of their team members.",
+        img: "src/assets/photos/exampleteamprofile.jpg",
+        description:
+            "Team Profile Generator: A command-line interface application that creates a team profile webpage featuring summaries of team members.",
         link: "https://github.com/mteubnerfoster/team-profile-generator",
     },
 
     {
-        img: "https://picsum.photos/400/550/?grayscale", //update photo
-        desctiption:
+        img: "src/assets/photos/express-note-taker.jpg", 
+        description:
             "Express Note Taker: A note taking application that allows users to enter and save notes.",
         link: "https://lit-sea-95005.herokuapp.com/",
     },
 
     {
-        img: "https://picsum.photos/400/?grayscale", //update photo
-        desctiption:
+        img: "src/assets/photos/weather-dashboard.jpg",
+        description:
             "Weather Dashboard: A weather dashboard that displays cities' weather forecasts.",
         link: "https://mteubnerfoster.github.io/weather-dashboard/",
     },
 
     {
-        img: "https://picsum.photos/400/700/?grayscale", //update photo
-        desctiption:
+        img: "src/assets/photos/work-day-scheduler.jpg",
+        description:
             "Work Day Scheduler: A calendar application that allows users to enter and save events for each hour of their work day, starting at 8am and ending at 5pm.",
         link: "https://mteubnerfoster.github.io/work-day-scheduler/",
     },
